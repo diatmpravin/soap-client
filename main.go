@@ -2,8 +2,8 @@ package main
 
 import (
 	"encoding/xml"
-	"github.com/giefferre/codemotion_soapclient/request"
-	"github.com/giefferre/codemotion_soapclient/response"
+	"github.com/diatmpravin/soapclient/request"
+	"github.com/diatmpravin/soapclient/response"
 	"fmt"
 )
 
